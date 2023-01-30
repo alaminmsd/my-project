@@ -515,7 +515,7 @@ footer .foot{
 /* .img-Gallary start */
 @media (max-width:952px){
     .friend{
-        margin-top: 900px;
+        margin-top: 1000px;
         height: 30vh;
 
     }
@@ -549,6 +549,9 @@ footer .foot{
     flex-wrap: wrap;
     display: block;
     margin: 50px;
+ }
+.p{
+    width: 300px;
  }
  .foot .foot-1 input{
     padding: 10px;
